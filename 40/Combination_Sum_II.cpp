@@ -46,7 +46,6 @@ int main(int argc, char const *argv[])
 		for(auto itr : a )
 		{
 			cout<< itr<<" ";
-
 		}
 		cout<<endl;
 	}
